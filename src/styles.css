@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.list-row {
+    float: left;
+    width: 100%;
+}
+.full-width {
+    float: left;
+    width: 100%;
+}
+.title {
+    font-size: 24px;
+}
+.container {
+    width: 1180px;
+    display: block;
+    margin: 0px auto;
+}
